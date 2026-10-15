@@ -1,0 +1,16 @@
+{
+  "name": "Unredact: the Wikipedia guessing game",
+  "short_name": "Unredact",
+  "description": "A Wikipedia article, blacked out. Guess words to reveal it and find the title.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F6F3",
+  "theme_color": "#E9EBEE",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
